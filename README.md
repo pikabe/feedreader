@@ -17,11 +17,11 @@ Project Description
 ---
 For this project, the JavaScript testing framework [Jasmine](http://jasmine.github.io/) was used to test the functionality of the an RSS feed reader application.
 
-Tests Passed
----
-*Each feed URL is defined and that the URL is not empty.
-*Each feed name is defined and is not empty.
-*The menu element is hidden by default.
-*The menu changes visibility when clicked.
-*When feeds are loaded, at least one entry for the feed.
-*When a new feed is loaded, the content actually changes.
+##Tests Passed##
+
+* Each feed URL is defined and that the URL is not empty.
+* Each feed name is defined and is not empty.
+* The menu element is hidden by default.
+* The menu changes visibility when clicked.
+* When feeds are loaded, at least one entry for the feed.
+* When a new feed is loaded, the content actually changes.
